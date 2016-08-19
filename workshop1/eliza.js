@@ -29,9 +29,9 @@
 
 var rules = {
 	"~*x avery ~*y" : [
-		"wow you are so great, avery, you are the best"
-		],
-	"
+		"wow you are so great, avery, you are the best!"
+	],
+
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
